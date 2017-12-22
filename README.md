@@ -1,4 +1,4 @@
-# no-bank
+# node-bank
 A Nubank API in NodeJS
 
 ### `POST /user/:token`
