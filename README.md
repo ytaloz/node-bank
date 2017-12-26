@@ -7,6 +7,9 @@
   <a href="https://gitter.im/simple-apis/node-bank"><img src="https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg"></a>
   <a href="https://saythanks.io/to/nulldreams">
       <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
+  </a>  
+  <a href="https://github.com/nulldreams/node-bank/issues">
+      <img src="https://img.shields.io/codeclimate/issues/github/me-and/mdf.svg">
   </a>
 </p>
 <p align="center">
