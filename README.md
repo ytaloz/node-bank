@@ -1,7 +1,28 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nulldreams/node-bank/master/box.png" alt="Size Limit example"
+       width="20%" height="20%">
+</p>
+<h4 align="center">A simple API for <a href="https://www.nubank.com.br/" target="_blank">Nubank</a></h4>
+<p align="center">
+  <a href="https://gitter.im/simple-apis/node-bank"><img src="https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg"></a>
+  <a href="https://saythanks.io/to/nulldreams">
+      <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
+  </a>
+</p>
+<p align="center">
+  <a href="#routes">Routes</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
+
 # node-bank
 A Nubank API in NodeJS
 
-### `POST /user/:token`
+## Routes
+* `POST /user/:token`
 send a json
 ```json
 {
@@ -18,7 +39,7 @@ and get the token in `access_token`
 ...        
 ```
 
-### `GET /bill/:token'`
+* `GET /bill/:token`
 ```json
 {
     "data": {
@@ -58,7 +79,7 @@ and get the token in `access_token`
             },
 ```
 
-### `GET /purchases/:token'`
+* `GET /purchases/:token`
 ```json
 {
     "data": {
@@ -78,7 +99,7 @@ and get the token in `access_token`
                 "expires_on": "2017-05-18",
 ```
 
-### `GET /me/:token'`
+* `GET /me/:token`
 ```json
 {
     "data": {
@@ -117,7 +138,7 @@ and get the token in `access_token`
 }
 ```
 
-### `GET /account/:token'`
+* `GET /account/:token`
 ```json
 {
     "data": {
@@ -147,7 +168,7 @@ and get the token in `access_token`
             },
 ```
 
-### `GET /events/:token'`
+* `GET /events/:token`
 ```json
 {
     "data": {
