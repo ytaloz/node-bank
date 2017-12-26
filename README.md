@@ -12,6 +12,7 @@
 <p align="center">
   <a href="#routes">Routes</a> •
   <a href="#how-to-use">How To Use</a> •
+  <a href="#credits">Credits</a> •
 </p>
 
 ## Routes
@@ -94,3 +95,16 @@ $ npm install
 # Run the app
 $ npm start
 ```
+
+## Credits
+
+This software uses some open source packages.
+
+- [Node.js](https://nodejs.org/)
+- [Fastify](https://github.com/fastify/fastify)
+- [Request](https://github.com/request/request)
+
+
+---
+
+> GitHub [@nulldreams](https://github.com/nulldreams) &nbsp;&middot;&nbsp;
