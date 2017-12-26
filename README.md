@@ -5,11 +5,17 @@
 <h4 align="center">A <a href="https://www.nubank.com.br/" target="_blank">Nubank</a> API in NodeJS</h4>
 <p align="center">
   <a href="https://gitter.im/simple-apis/node-bank"><img src="https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg"></a>
+	
   <a href="https://saythanks.io/to/nulldreams">
       <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
   </a>  
+	
   <a href="https://github.com/nulldreams/node-bank/issues">
       <img src="https://img.shields.io/codeclimate/issues/github/me-and/mdf.svg">
+  </a>
+
+  <a href="http://makeapullrequest.com">
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
   </a>
 </p>
 <p align="center">
@@ -107,6 +113,7 @@ This software uses some open source packages.
 - [Fastify](https://github.com/fastify/fastify)
 - [Request](https://github.com/request/request)
 
+**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 ---
 
