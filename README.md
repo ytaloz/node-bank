@@ -15,7 +15,7 @@
 </p>
 
 ## Routes
-* `POST /user/:token`
+* **`POST /user/:token`**
 send a json
 ```json
 {
@@ -32,7 +32,7 @@ and get the token in `access_token`
 ...        
 ```
 
-* `GET /bill/:token`
+* **`GET /bill/:token`**
 ```json
 {
    "data": {
@@ -41,7 +41,7 @@ and get the token in `access_token`
 }
 ```
 
-* `GET /purchases/:token`
+* **`GET /purchases/:token`**
 ```json
 {
    "data": {
@@ -50,7 +50,7 @@ and get the token in `access_token`
 }
 ```
 
-* `GET /me/:token`
+* **`GET /me/:token`**
 ```json
 {
    "data": {
@@ -59,7 +59,7 @@ and get the token in `access_token`
 }
 ```
 
-* `GET /account/:token`
+* **`GET /account/:token`**
 ```json
 {
    "data": {
@@ -68,7 +68,7 @@ and get the token in `access_token`
 }
 ```
 
-* `GET /events/:token`
+* **`GET /events/:token`**
 ```json
 {
    "data": {
